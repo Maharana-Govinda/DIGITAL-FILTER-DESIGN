@@ -51,3 +51,4 @@ This knowledge is highly applicable in the VLSI domain, especially for engineers
 
 #OUTPUT
 
+![Image](https://github.com/user-attachments/assets/1c116675-c8c4-495c-b29a-171f2405f487)
